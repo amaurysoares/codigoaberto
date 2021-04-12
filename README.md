@@ -5,3 +5,5 @@
 
 * Just run at root
 docker-compose up -d
+
+* Em desenvolvimento...
