@@ -18,7 +18,6 @@ services:
 
   webserver:
     image: nginx:alpine
-  
     working_dir: /application
     volumes:
      - ./application:/application
